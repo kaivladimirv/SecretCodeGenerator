@@ -1,5 +1,5 @@
 {
-    "name": "kaivladimirv/secret-code-cenerator",
+    "name": "kaivladimirv/secret-code-generator",
     "description": "Класс для генерации секретного кода",
     "type": "library",
     "authors": [
